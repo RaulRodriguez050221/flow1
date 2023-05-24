@@ -18,8 +18,7 @@ Para realizar este flow necesitas lo siguiente
 
 En los siguientes enlaces puedes encontrar cursos en la plataforma de edu.codigoiot.com que te permitirán realiar las configuraciones necesarias
 
-- [Instalación de Virutal Box y Ubuntu 20.04](https://edu.codigoiot.com/course/view.php?id=812)
-- [Instalación de NodeRed](https://edu.codigoiot.com/course/view.php?id=817)
+- [Introducción a Docker](https://edu.codigoiot.com/course/view.php?id=996)
 - [Introducción a NodeRed](https://edu.codigoiot.com/course/view.php?id=278)
 
 ## Instrucciones
@@ -27,15 +26,21 @@ En los siguientes enlaces puedes encontrar cursos en la plataforma de edu.codigo
 ### Requisitos previos
 
 Para que este flow funcione, debes cumplir con los siguientes requisitos previos
-1. Instalación de NodeJS. Se recomienda tener instalado NodeJS en alguna versión LTS. Al momento de creación de este documento, se usó la versión 16.17.0LTS. Esta instalación debe incluir las Build-Tools para hacer uso de NPM
-2. Instalación de NodeRed. La instalación se realiza por NPM. Al momento de la creación de este contenido, se usó la versión 3.0.2
+
+1. Tener instalado Docker Engine.
+2. Tener instalado nodeRed por Docker Compose
+3. Tener el contenedor de nodeRed con el volumen de data activado
+
 
 ### Instrucciones de preparación del entorno
 
 Para ejecutar este flow, es necesario lo siguiente
-1. Arrancar NodeRed con el comando `node-red`
-2. Importar el flow desde el repositorio
-3. Hacer clic en el boton Deploy
+1. Arrancar NodeRed con el comando 
+
+            docker start $(docker ps -a -q)
+2. Diregirse al [localhost:1880](localhost:1880)
+3. Importar el flow desde el repositorio
+4. Hacer clic en el boton Deploy
 
 ### Instrucciones de operación
 
@@ -45,13 +50,15 @@ Para observar el resutlado de este flow, sólo es necesario abrir la pestaña De
 
 A continuación puede verse una vista previa del resultado de este flow.
 
-![](https://github.com/hugoescalpelo/flow1-g10/blob/main/Captura%20de%20pantalla%20del%20flow%201.png?raw=true)
+![](https://github.com/RaulRodriguez050221/flow1/imagenes/flow1img.png?raw=true)
 
 ## Evidencias
 
 - [YouTube](https://youtu.be/8U-K6bgMQwE)
 
 # Créditos
+Desarrollado por Raul Rodriguez
+- [GitHub](https://github.com/RaulRodriguez050221
 
 Desarrollado por Hugo Escalpelo
 - [hugoescalpelo.com](https://hugoescalpelo.com/)
