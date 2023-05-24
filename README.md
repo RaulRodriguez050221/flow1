@@ -51,7 +51,9 @@ Para observar el resutlado de este flow, sólo es necesario abrir la pestaña De
 A continuación puede verse una vista previa del resultado de este flow.
 
 
-![](https://github.com/RaulRodriguez050221/mi-proyecto/blob/main/flow1img.png?raw=true)
+![](https://github.com/RaulRodriguez050221/flow1/blob/main/flow1img.png?raw=true)
+
+![](https://github.com/hugoescalpelo/flow1-g10/blob/main/Captura%20de%20pantalla%20del%20flow%201.png?raw=true)
 
 
 ## Evidencias
