@@ -50,7 +50,8 @@ Para observar el resutlado de este flow, sólo es necesario abrir la pestaña De
 
 A continuación puede verse una vista previa del resultado de este flow.
 
-![](https://github.com/RaulRodriguez050221/imagenes/flow1img.png)
+https://github.com/RaulRodriguez050221/mi-proyecto/blob/main/flow1img.png
+
 
 ## Evidencias
 
