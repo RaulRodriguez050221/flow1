@@ -58,7 +58,7 @@ A continuación puede verse una vista previa del resultado de este flow.
 
 # Créditos
 Desarrollado por Raul Rodriguez
-- [GitHub](https://github.com/RaulRodriguez050221
+- [GitHub](https://github.com/RaulRodriguez050221)
 
 Desarrollado por Hugo Escalpelo
 - [hugoescalpelo.com](https://hugoescalpelo.com/)
